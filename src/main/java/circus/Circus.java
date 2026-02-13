@@ -8,6 +8,12 @@ import circus.animal.Animal;
 import circus.animal.Duck;
 import circus.animal.Parrot;
 import circus.animal.Tiger;
+// class ArrayList
+import java.util.ArrayList;
+import java.util.Arrays;
+// fix the import for Elephant
+import circus.animal.Elephant;
+
 
 
 public class Circus {
